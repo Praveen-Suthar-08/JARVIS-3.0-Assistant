@@ -77,25 +77,7 @@ Whether you need hands-free workflow automation, proactive task management, real
 
 ---
 
-## 📸 Interface & Live Autonomous Agent Showcase
 
-<div align="center">
-
-### 🖥️ Futuristic Cybernetic HUD Interface
-| Listening Mode | Speaking Mode & Live News |
-|---|---|
-| ![JARVIS HUD Listening Mode](assets/screenshots/media_1790920510208.png) | ![JARVIS HUD Speaking Mode](assets/screenshots/media_1790920510226.png) |
-
-### 🤖 Autonomous DevAgent Project Generation
-> **Real Demonstration:** *"Can you create a simple calculator for me?"*
-
-| DevAgent Planning & Execution | Live System Activity Log | Generated Code Structure |
-|---|---|---|
-| ![DevAgent Planning Log](assets/screenshots/media_1790920509904.png) | ![Activity Stream Log](assets/screenshots/media_1790920510052.png) | ![VS Code Generated Project](assets/screenshots/media_1790920510152.png) |
-
-</div>
-
----
 
 ## ⚡ Complete Feature Capabilities
 
